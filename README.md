@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/micronithi4/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
