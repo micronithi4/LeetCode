@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0709-to-lower-case](https://github.com/micronithi4/LeetCode/tree/master/0709-to-lower-case) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/micronithi4/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/micronithi4/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
