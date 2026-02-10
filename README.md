@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/micronithi4/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
