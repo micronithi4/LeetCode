@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/micronithi4/LeetCode/tree/master/0190-reverse-bits) |
 | [3827-count-monobit-integers](https://github.com/micronithi4/LeetCode/tree/master/3827-count-monobit-integers) |
 ## Enumeration
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/micronithi4/LeetCode/tree/master/0007-reverse-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/micronithi4/LeetCode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
