@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/micronithi4/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/micronithi4/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/micronithi4/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/micronithi4/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/micronithi4/LeetCode/tree/master/0709-to-lower-case) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/micronithi4/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/micronithi4/LeetCode/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
