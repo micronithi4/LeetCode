@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/micronithi4/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/micronithi4/LeetCode/tree/master/0053-maximum-subarray) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/micronithi4/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/micronithi4/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
 <!---LeetCode Topics End-->
