@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/micronithi4/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/micronithi4/LeetCode/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/micronithi4/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2405-optimal-partition-of-string](https://github.com/micronithi4/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [3794-reverse-string-prefix](https://github.com/micronithi4/LeetCode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/micronithi4/LeetCode/tree/master/0001-two-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/micronithi4/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/micronithi4/LeetCode/tree/master/2405-optimal-partition-of-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/micronithi4/LeetCode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2405-optimal-partition-of-string](https://github.com/micronithi4/LeetCode/tree/master/2405-optimal-partition-of-string) |
 <!---LeetCode Topics End-->
